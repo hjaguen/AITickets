@@ -1,0 +1,37 @@
+[
+  {
+    "categoria": "Facturación",
+    "solucion": "Verifique que los parámetros del consecutivo estén activos en el módulo de ventas.",
+    "especialista": "Diana Rojas"
+  },
+  {
+    "categoria": "Nómina",
+    "solucion": "Revise el período activo de nómina y vuelva a generar el reporte.",
+    "especialista": "Carlos Pérez"
+  },
+  {
+    "categoria": "POS",
+    "solucion": "Compruebe la configuración del dispositivo lector y reinicie el módulo.",
+    "especialista": "Lucía Gómez"
+  },
+  {
+    "categoria": "Contabilidad",
+    "solucion": "Ejecute el cierre contable del mes anterior antes de recalcular impuestos.",
+    "especialista": "Pedro Martínez"
+  },
+  {
+    "categoria": "Inventario",
+    "solucion": "Verifique si la imagen supera el tamaño permitido o si el formato es compatible.",
+    "especialista": "Sandra Ruiz"
+  },
+  {
+    "categoria": "Ventas",
+    "solucion": "Actualice la lista de precios y valide los permisos del usuario.",
+    "especialista": "Andrés León"
+  },
+  {
+    "categoria": "ERP",
+    "solucion": "Solicite acceso al módulo desde configuración de seguridad.",
+    "especialista": "Laura Salazar"
+  }
+]
