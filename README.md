@@ -32,7 +32,7 @@ Todo esto está encapsulado en una interfaz web sencilla, construida con [**Stre
 
 ```
 
-📁 demo\_ticket\_ia/
+📁 AIticket\
 │
 ├── app.py                     # Aplicación Streamlit
 ├── modelo\_clasificacion.pkl   # Modelo de clasificación entrenado
